@@ -1,8 +1,0 @@
-C:\Users\Luni\source\repos\VRChatPriority\VRChatPriority\bin\Debug\VRChatPriority.dll
-C:\Users\Luni\source\repos\VRChatPriority\VRChatPriority\bin\Debug\VRChatPriority.pdb
-C:\Users\Luni\source\repos\VRChatPriority\VRChatPriority\bin\Debug\MelonLoader.ModHandler.dll
-C:\Users\Luni\source\repos\VRChatPriority\VRChatPriority\obj\Debug\VRChatPriority.csprojAssemblyReference.cache
-C:\Users\Luni\source\repos\VRChatPriority\VRChatPriority\obj\Debug\VRChatPriority.csproj.CoreCompileInputs.cache
-C:\Users\Luni\source\repos\VRChatPriority\VRChatPriority\obj\Debug\VRChatPriority.csproj.CopyComplete
-C:\Users\Luni\source\repos\VRChatPriority\VRChatPriority\obj\Debug\VRChatPriority.dll
-C:\Users\Luni\source\repos\VRChatPriority\VRChatPriority\obj\Debug\VRChatPriority.pdb
